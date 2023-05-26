@@ -305,5 +305,18 @@ label {
   .subtext{
     color: black;
     margin-top: 10px;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
+  }
+
+  .toptext {
+    margin-top: 20px;
+    
+    margin-left: 45%;
+  }
+
+  .arrows{
+    color: darkgray;
+    margin-left: 45%;
+    font-size: 70px;
+   
   }
